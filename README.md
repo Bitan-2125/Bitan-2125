@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bitan Das
 
-- 📧 **Email**: 23uec529@lnmiit.ac.in
+- 📧 **Email**: 23uec529@lnmiit.ac.in /bitandas975@gmail.com
 - **LinkedIn**: (https://www.linkedin.com/in/bitan-das-b84551278/)
 - **GitHub**: https://github.com/Bitan-2125
 
