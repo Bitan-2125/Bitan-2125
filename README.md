@@ -81,7 +81,7 @@ I am an AI specialist with a strong background in designing and deploying AI mod
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bitan-2125&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
+  
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitan-2125&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
