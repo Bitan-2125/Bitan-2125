@@ -3,6 +3,7 @@
 - 📧 **Email**: 23uec529@lnmiit.ac.in / bitandas975@gmail.com  
 - **LinkedIn**: [linkedin.com/in/bitan-das-b84551278](https://www.linkedin.com/in/bitan-das-b84551278/)  
 - **GitHub**: [github.com/Bitan-2125](https://github.com/Bitan-2125)
+- **Leetcode**: [leetcode.com/u/Bitan_09](https://leetcode.com/u/Bitan_09/).
 
 ---
 
