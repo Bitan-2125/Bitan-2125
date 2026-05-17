@@ -74,8 +74,3 @@ I am an AI specialist with a strong background in designing and deploying AI mod
 - **Tech Stack**: Flask, Random Forest, ResNet9, Groq LLM, Tavily, Deep Learning  
 - **Repository**: [Harvestify](https://github.com/Bitan-2125/Crop_monitoring_system)
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitan-2125&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
