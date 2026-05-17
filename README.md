@@ -11,10 +11,10 @@
 
 I am an AI specialist with a strong background in designing and deploying AI models across various domains. My foundation is in Data Structures & Algorithms using C++.
 
-- 🌱 I am currently deepening my expertise in **LLMs, Generative AI, and Agentic AI systems** using Python.  
-- 🔭 I am passionate about building **autonomous solutions** that connect advanced technology with real-world challenges.  
-- 🎓 Pursuing a **B.Tech. in Electronics & Communication Engineering** from **The LNM Institute of Information Technology**, Jaipur.  
-- 💡 I have solved **300+ coding problems** on platforms like LeetCode, Codeforces, and CodeStudio.
+-  I am currently deepening my expertise in **LLMs, Generative AI, and Agentic AI systems** using Python.  
+-  I am passionate about building **autonomous solutions** that connect advanced technology with real-world challenges.  
+-  Pursuing a **B.Tech. in Electronics & Communication Engineering** from **The LNM Institute of Information Technology**, Jaipur.  
+-  I have solved **300+ coding problems** on platforms like LeetCode, Codeforces, and CodeStudio.
 
 ---
 
@@ -55,33 +55,24 @@ I am an AI specialist with a strong background in designing and deploying AI mod
 
 ### 🚀 My Favorite Projects
 
-#### 1. SME Financial Health Monitor (Project Neon)
-- **Description**: An **AI-powered dashboard** that transforms financial spreadsheets into actionable insights for SMEs using **CrewAI** and **NVIDIA NIM**. Built during **MumbaiHacks 2025**, it acts as an **autonomous AI crew** providing cash flow visibility, financial risk assessment, and interactive dashboards within minutes.  
-- **Tech Stack**: Python, CrewAI, NVIDIA NIM, Gradio, Plotly, FastAPI.  
-- **Live Demo**: [bitan09-neon.hf.space](https://bitan09-neon.hf.space)  
-- **Repository**: [MumbaiHacks 2025 - Project Neon](https://github.com/PiyushGupta1590/MumbaiHacks2025)
-
-#### 2. Smart Legal Advisor
-- **Description**: Summarizes complex legal text into simpler language, highlighting implications & risks. It also supports multimodal input (text & audio) and generates responses in both formats.  
-- **Tech Stack**: Ollama, Prompting, FastAPI, ReactJS, Multimodal.  
-- **Repository**: [Smart Legal Advisor](https://github.com/Bitan-2125/Smart_Legal_Advisor)
-
-#### 3. SmartFin Financial Assistant Chatbot
-- **Description**: An LLM-powered financial advisor that generates personalized savings plans and investment strategies. It allows for iterative strategy refinement through natural Q&A.  
-- **Tech Stack**: LLM, LangChain, AI Agents, Flask.  
-- **Repository**: [SmartFin Financial Assistant](https://github.com/Bitan-2125/SmartFin-Advisor)
-
-#### 4. ASL Detection
-- **Description**: A real-time system that translates American Sign Language gestures to text via webcam. The model was trained on a Kaggle dataset of 29 gestures.  
-- **Tech Stack**: Deep Learning, CNN, Flask.  
-- **Repository**: [ASL Detection](https://github.com/Bitan-2125/ASL-DETECTION)
-
-#### 5. Plant Disease Classification
-- **Description**: A CNN model built to detect 38 different plant diseases from the Plant Village dataset. The model's robustness was improved using data augmentation techniques.  
-- **Tech Stack**: Deep Learning, CNN, Flask.  
-- **Repository**: [Plant Disease Classification](https://github.com/Bitan-2125/Pest-Diseases-Detection)
+#### 1. SmartFin — Agentic AI Financial Advisor
+- **Description**: Architected an autonomous financial advisor using LangGraph for deterministic state-machine reasoning and tool-calling. Integrated real-time market research tools to provide context-aware investment guidance and transparent financial planning workflows.  
+- **Tech Stack**: LangGraph, Groq, Streamlit, AI Agents, LLMs  
+- **Repository**: [SmartFin Financial Advisor](https://github.com/Bitan-2125/Smartfin-Agent-Based-Financial-Advisor)
 
 ---
+
+#### 2. JudgeIQ — Court Judgment Intelligence Platform
+- **Description**: Developed an AI-powered legal intelligence platform that automates extraction of actionable insights from court judgment PDFs using LLM-driven workflows. Built multilingual document processing pipelines with OCR, LangChain agents, compliance tracking, and human-in-the-loop verification systems.  
+- **Tech Stack**: LangChain, Groq API, Flask, PostgreSQL, OCR, AI Agents  
+- **Repository**: [JudgeIQ](https://github.com/Bitan-2125/JudgeIQ-)
+
+---
+
+#### 3. Harvestify — AI Precision Farming Platform
+- **Description**: Built a full-stack AI platform integrating Machine Learning, Deep Learning, and LLMs for crop recommendation, disease detection, and agricultural planning. Implemented Random Forest and ResNet9 models with real-time weather integration and multilingual AI advisory generation.  
+- **Tech Stack**: Flask, Random Forest, ResNet9, Groq LLM, Tavily, Deep Learning  
+- **Repository**: [Harvestify](https://github.com/Bitan-2125/Crop_monitoring_system)
 
 ### 📊 My GitHub Stats
 
